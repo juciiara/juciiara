@@ -2,7 +2,7 @@
 - 👩‍💻 Hoje trabalho com font-end
 - 📚 Estudando Automação de testes com Java
 - 📫Contate-me no e-mail juciarae.c@gmail.com      
-- 😄 Pronouns: ela/dela
+
 
 #Tecnologia que eu uso no meu dia a dia👩‍💻
 <div style="display: inline_block"><br/> 
