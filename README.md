@@ -1,7 +1,7 @@
 ## Hello World!🙋‍♀️
 - 👩‍💻 Hoje trabalho com font-end
 - 📚 Estudando Automação de testes com Java
-- 📫Contate-me no e-mail juciarae.c@gmail.
+- 📫Contate-me no e-mail juciarae.c@gmail.com
 
 #Tecnologia que eu uso no meu dia a dia👩‍💻
 <div style="display: inline_block"><br/> 
