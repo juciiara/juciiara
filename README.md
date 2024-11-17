@@ -1,12 +1,16 @@
+   <h2 align="left">Hi 👋! My name is Juciara </h2>
 
-
- 
-  <h2 align="left">Hi 👋! My name is Juciara </h2>
 - 👩‍💻 Hoje trabalho com font-end
+
 - 📚 Estudando Automação de testes com Java
+
 - 📫Contate-me no e-mail juciarae.c@gmail.com                                      
 
- 
+ ###
+
+<img align="center" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
+###
    [![linkedlin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juciara-conceicao)
    [![instagran](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/juciara_e.c/)
   
@@ -20,7 +24,6 @@
   <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"  />
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 </div><br/>
-
 
 
 
