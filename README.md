@@ -2,12 +2,13 @@
 
  
   # Hello World!🙋‍♀️
+  <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 - 👩‍💻 Hoje trabalho com font-end
 - 📚 Estudando Automação de testes com Java
 - 📫Contate-me no e-mail juciarae.c@gmail.com                                      
 
-<div  align="center"> 
-   <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
+   
 
 
 <div  align="center"> 
