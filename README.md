@@ -12,6 +12,7 @@
 
 <div  align="center"> 
 <div style="display: inline_block"><br>
+ <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
   <img align="left" height="250" alt="coding-time" src="code.gif">
   <h1 align="center"></h1>
    <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -22,9 +23,6 @@
 <img align="center" alt="git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
 
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
-  
 ![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
 <div><br/>
 
