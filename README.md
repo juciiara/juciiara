@@ -22,7 +22,6 @@
 </div><br/>
 
 
-![Snake animation](https://github.com/juciiara/juciiara/blob/output/snake.svg)
 
 
 
