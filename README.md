@@ -1,7 +1,7 @@
 
 
  
-  # Hello World!🙋‍♀️
+  <h2 align="left">Hi 👋! My name is Juciara </h2>
 - 👩‍💻 Hoje trabalho com font-end
 - 📚 Estudando Automação de testes com Java
 - 📫Contate-me no e-mail juciarae.c@gmail.com                                      
