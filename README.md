@@ -1,9 +1,10 @@
 
-  
+
+  <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
   # Hello World!🙋‍♀️
 - 👩‍💻 Hoje trabalho com font-end
 - 📚 Estudando Automação de testes com Java
-- 📫Contate-me no e-mail juciarae.c@gmail.com                                      <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+- 📫Contate-me no e-mail juciarae.c@gmail.com                                      
 
   
 
