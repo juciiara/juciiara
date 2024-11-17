@@ -2,7 +2,6 @@
 
  
   # Hello World!🙋‍♀️
-  <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 - 👩‍💻 Hoje trabalho com font-end
 - 📚 Estudando Automação de testes com Java
 - 📫Contate-me no e-mail juciarae.c@gmail.com                                      
@@ -21,6 +20,9 @@
 <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 <img align="center" alt="jira" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"/>
 <img align="center" alt="git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
+
+
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
   
 ![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
