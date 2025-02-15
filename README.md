@@ -6,9 +6,6 @@
 
 - 📫Contate-me no e-mail juciarae.c@gmail.com                                      
 
- ###
-
-<img align="center" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
    [![linkedlin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juciara-conceicao)
