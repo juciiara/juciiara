@@ -1,4 +1,8 @@
-### <span style="color: #4CAF50; font-size: 26px; font-family: 'Courier New', monospace;">Hi, 🙋‍♀️ my name is Juciara!</span>💚
+### <span style="color: #4CAF50; font-size: 26px; font-family: 'Courier New', monospace;">Hi, 🙋‍♀️ my name is Juciara!</span>💚  
+#<span style="font-size: 16px; font-family: 'Courier New', monospace; color: #FF6347;">Caçadora de Bugs</span>#
+
+
+
 
 #### 💼 Sobre Mim🍀
 
