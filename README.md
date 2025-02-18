@@ -1,8 +1,7 @@
 ### <span style="color: #4CAF50; font-size: 26px; font-family: 'Courier New', monospace;">Hi, 🙋‍♀️ my name is Juciara!</span>💚  
 #<span style="font-size: 16px; font-family: 'Courier New', monospace; color: #FF6347;">Caçadora de Bugs</span>#
 
-
-
+---
 
 #### 💼 Sobre Mim🍀
 
@@ -10,11 +9,13 @@
 
 #### 👩‍💻 Atuação🌐
 
-- **Atuo como QA**, com foco em **Testes Manuais e Automação de Testes com Java**
-- **Experiência** em **Garantia de Qualidade** com Testes Manuais e Automação de Processos de Teste
+- Atuo como **QA**, com foco em Testes Manuais e Automação de Testes com Java
+- Experiência** em **Garantia de Qualidade** com Testes Manuais e Automação de Processos de Teste
+
 
 ---
-#### 🖥️ Linguagens de Programação & Ferramentas
+#### Skills🚀
+#### 🖥️ Linguagens de Programação 
 
 <div align="left">
   <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -24,6 +25,11 @@
   <img align="center" alt="JUnit" src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit&logoColor=white" />
   <img align="center" alt="Cucumber" src="https://img.shields.io/badge/Cucumber-23B574?style=for-the-badge&logo=cucumber&logoColor=white" />
   <img align="center" alt="RestAssured" src="https://img.shields.io/badge/RestAssured-3A5A40?style=for-the-badge&logo=rest&logoColor=white" />
+</div>
+
+#### ⚙️ DevOps 
+
+<div align="left">
   <img align="center" alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
   <img align="center" alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img align="center" alt="Qase" src="https://img.shields.io/badge/Qase-FF6633?style=for-the-badge&logo=qase&logoColor=white" />
@@ -32,6 +38,7 @@
 </div>
 
 ![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
+
 
 #### 🌱 Objetivos e Ambições🚀
 
