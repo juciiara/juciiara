@@ -1,12 +1,12 @@
-<img align="right" src="https://github.com/user-attachments/assets/97ff5b6b-fa64-4261-87f6-937805afd5ed" width="300" height="300">
+<img align="right" src="https://github.com/user-attachments/assets/97ff5b6b-fa64-4261-87f6-937805afd5ed" width="300" height="300"> 
 
 Hi, 🙋‍♀️ my name is Juciara!💚
- 
-  #Caçadora de Bugs#
-   
+  
+  Caçadora de Bugs 🕵️‍♀️🐞
+
+
 
 #### 💼 Sobre Mim🍀
-
 
 
 <p style="color: #FF6347; font-family: 'Courier New', monospace; font-size: 18px;">Sou profissional de QA com experiência em **testes manuais** e **automação de testes com Java**. Tenho o objetivo de garantir a qualidade do software por meio de boas práticas de teste, sempre buscando inovação e melhoria contínua. Meu foco está em implementar soluções eficazes e de qualidade para os processos de testes, garantindo uma entrega de software robusta e sem falhas.</p>
