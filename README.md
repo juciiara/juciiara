@@ -1,4 +1,6 @@
-<img align="right" src="https://github.com/user-attachments/assets/97ff5b6b-fa64-4261-87f6-937805afd5ed" width="300" height="300"> 
+
+  <img align="right" src="https://github.com/user-attachments/assets/eb21535f-c029-4fbc-ba5c-754d2e026845" width="300" height="300">
+
 
 Hi, 🙋‍♀️ my name is Juciara!💚
   
