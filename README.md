@@ -55,7 +55,8 @@ Com o objetivo de crescer cada vez mais na área de QA, meu foco é aprimorar ha
 #### Contate-me
 
 - 📧 [**E-mail**](mailto:juciarae.c@gmail.com)
-- 📄 [**Ver meu CV**](https://github.com/juciiara/juciiara/blob/main/JUCIARA%20E.pdf)
+- 📄 [**Ver meu Portfólio**](https://github.com/juciiara/juciiara/blob/main/JUCIARA%20E.pdf)
+
 
 ---
 
