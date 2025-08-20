@@ -57,14 +57,12 @@ Convido você a conhecer meu trabalho e acompanhar minha jornada em QA e automa�
 Crescimento contínuo na área de QA, com foco em automação de testes, novas ferramentas e boas práticas no desenvolvimento de software.
 
 ---
-
-#### 📬 Contato
-
-📧 [E-mail](mailto:juciarae.c@gmail.com)  
-📄 [Ver meu Portfólio](https://github.com/juciiara/juciiara/blob/main/JUCIARA%20E.pdf)
+## 📄 Currículo
+👉 [Clique aqui para visualizar meu currículo](https://github.com/juciiara/meu-curriculo/blob/main/Juciara%20E.Conceicao.pdf)
 
 ---
 
 #### 🌐 Conecte-se
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juciara-e-c/)
+✉️ Email: **juciarae.c@gmail.com**  
+- 💼 LinkedIn: [linkedin.com/in/juciara-e-c](https://www.linkedin.com/in/juciara-e-c)  
+- 📱 WhatsApp: **(11) 96284-9255** 
