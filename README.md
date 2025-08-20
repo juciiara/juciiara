@@ -63,9 +63,6 @@ Crescimento contínuo na área de QA, com foco em automação de testes, novas f
 ---
 
 #### 🌐 Conecte-se
-🌐 Conecte-se
-
-🌐 Conecte-se
 
 ✉️ [Email](mailto:juciarae.c@gmail.com)  
 💼 [LinkedIn](https://www.linkedin.com/in/juciara-e-c)  
