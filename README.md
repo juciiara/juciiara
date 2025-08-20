@@ -17,8 +17,9 @@ Sou profissional de QA com experiência em <strong>testes manuais</strong> e <st
 Hi, I’m Juciara — QA Engineer.  
 Acabei de atualizar meus perfis com projetos recentes e novas informações:
 
-🔗 🔗 [LinkedIn — trajetória, habilidades e experiências](https://www.linkedin.com/in/juciara-e-c)  
-🔗 [GitHub — novo projeto com documentação completa + README pessoal](https://github.com/juciiara)
+🔗 [LinkedIn](https://www.linkedin.com/in/juciara-e-c) — trajetória, habilidades e experiências  
+🔗 [GitHub](https://github.com/juciiara) — novo projeto com documentação completa + README pessoal
+
 
 
 Convido você a conhecer meu trabalho e acompanhar minha jornada em QA e automação de testes!
