@@ -18,7 +18,7 @@ Hi, I’m Juciara — QA Engineer.
 Acabei de atualizar meus perfis com projetos recentes e novas informações:
 
 🔗 [LinkedIn](https://www.linkedin.com/in/juciara-e-c) — trajetória, habilidades e experiências  
-🔗 [GitHub](https://github.com/juciiara) — novo projeto com documentação completa + README pessoal
+🔗 [GitHub](https://github.com/juciiara?tab=repositories) — novo projeto com documentação completa + README pessoal
 
 
 
