@@ -60,8 +60,10 @@ Crescimento contínuo na área de QA, com foco em automação de testes, novas f
 #### 🌐 Conecte-se
 
 <!-- E-mail -->
-[<img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:juciarae.c@gmail.com)
 
+<a href="mailto:juciarae.c@gmail.com">
+  <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
 <!-- LinkedIn -->
 [<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/juciara-e-c)
