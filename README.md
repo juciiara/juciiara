@@ -1,8 +1,8 @@
 
 <img align="right" src="https://github.com/user-attachments/assets/eb21535f-c029-4fbc-ba5c-754d2e026845" width="300" height="300">
 
- Juciara — QA Engineer 💚  
-Caçadora de Bugs 🕵️‍♀️🐞
+ Juciara — QA Analyst 💚  
+ Caçadora de Bugs 🕵️‍♀️🐞
 
 #### 💼 Sobre Mim🍀
 
@@ -14,17 +14,14 @@ Sou profissional de QA com experiência em <strong>testes manuais</strong> e <st
 
 🚀 Perfis Atualizados
 
-Hi, I’m Juciara — QA Engineer.  
 Acabei de atualizar meus perfis com projetos recentes e novas informações:
+
+Convido você a conhecer meu trabalho e acompanhar minha jornada em QA e automação de testes!
 
 🔗 [LinkedIn](https://www.linkedin.com/in/juciara-e-c) — trajetória, habilidades e experiências  
 🔗 [GitHub](https://github.com/juciiara?tab=repositories) — novo projeto com documentação completa + README pessoal
 
 
-
-Convido você a conhecer meu trabalho e acompanhar minha jornada em QA e automação de testes!
-
----
 
 #### 🚀 Skills
 
@@ -52,24 +49,25 @@ Convido você a conhecer meu trabalho e acompanhar minha jornada em QA e automa�
 
 ![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
 
----
+
 
 #### 🌱 Objetivos
 
 Crescimento contínuo na área de QA, com foco em automação de testes, novas ferramentas e boas práticas no desenvolvimento de software.
 
----
-## 📄 Currículo
-👉 [Clique aqui para visualizar meu currículo](https://github.com/juciiara/meu-curriculo/blob/main/Juciara%20E.Conceicao.pdf)
 
----
 
 #### 🌐 Conecte-se
 
-✉️ [juciarae.c@gmail.com](mailto:juciarae.c@gmail.com)
+<!-- E-mail -->
+[<img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:juciarae.c@gmail.com)
 
-💼 [LinkedIn](https://www.linkedin.com/in/juciara-e-c)  
-📱 [WhatsApp](https://wa.me/5511962849255)
+<!-- LinkedIn -->
+[<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/juciara-e-c)
 
+<!-- WhatsApp -->
+[<img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />](https://wa.me/5511962849255)
 
+<!-- Currículo -->
+[<img alt="Currículo" src="https://img.shields.io/badge/Currículo-4B8BBE?style=for-the-badge&logo=read-the-docs&logoColor=white" />](https://github.com/juciiara/meu-curriculo/blob/main/Juciara%20E.Conceicao.pdf)
 
