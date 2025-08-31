@@ -1,25 +1,31 @@
 
 <img align="right" src="https://github.com/user-attachments/assets/eb21535f-c029-4fbc-ba5c-754d2e026845" width="300" height="300">
 
- Juciara — QA Analyst 💚  
- Caçadora de Bugs 🕵️‍♀️🐞
+   👩‍💻 Juciara — QA Analyst 💚  
 
-#### 💼 Sobre Mim🍀
-
-<p style="color: #FF6347; font-family: 'Courier New', monospace; font-size: 18px;">
-Sou profissional de QA com experiência em <strong>testes manuais</strong> e <strong>automação de testes com Java</strong>. Foco em garantir a qualidade do software por meio de boas práticas, inovação e melhoria contínua.
-</p>
+✨ **Caçadora de Bugs** 🕵️‍♀️ | 🚀 **Automação de Testes** | 🌍 **Qualidade de Software**
 
 ---
 
-🚀 Perfis Atualizados
+ 👩‍💻 Sobre Mim
+ 
+  Sou profissional de **QA** com experiência em **testes manuais e automação de testes com Java**.  
+  Tenho como foco garantir a qualidade do software por meio de boas práticas, inovação e melhoria contínua.  
 
-Acabei de atualizar meus perfis com projetos recentes e novas informações:
+   
+- 🔍 Experiência com **testes exploratórios, positivos, negativos e de regressão**  
+- 🤖 Automação com **Selenium, JUnit, Cucumber, RestAssured**  
+- 📊 Testes de API com **Postman**  
+- 📌 Gestão de testes com **Jira, Qase e Notion**  
 
-Convido você a conhecer meu trabalho e acompanhar minha jornada em QA e automação de testes!
 
-🔗 [LinkedIn](https://www.linkedin.com/in/juciara-e-c) — trajetória, habilidades e experiências  
-🔗 [GitHub](https://github.com/juciiara?tab=repositories) — novo projeto com documentação completa + README pessoal
+## 🌍 Perfis Atualizados
+📌 [LinkedIn](https://www.linkedin.com/in/juciara-e-c)  
+📌 [GitHub](https://github.com/juciiara)  
+
+
+✨ Convido você a conhecer meus projetos e acompanhar minha jornada em QA e Automação de Testes!
+
 
 
 
